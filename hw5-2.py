@@ -26,7 +26,7 @@ print(math.ceil(-12.9))
 print(math.floor(7.25))
 
 # 9) Write a line of code that returns the natural log of 1000, times 2.
-print(math.log(math.log(1000)))
+print(math.log(math.log(1000) * 2))
 
 # 10) Write a line of code that converts 180 degrees to radians.
 print(math.radians(180))
